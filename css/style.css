@@ -42,6 +42,12 @@ section{
     */
 
 }
+
+section a{
+    text-decoration: none;
+}
+
+
 h2{
     margin: 2%;
     text-align: center;

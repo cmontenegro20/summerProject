@@ -19,7 +19,8 @@ body{
 }
 
 nav{
-    background-color:#F8C7CC;
+    background-color: #CBEFB6;
+    /* background-color:#F8C7CC; */
     text-align: center;
     word-spacing: 180px;
     padding: 1%;
@@ -39,7 +40,7 @@ h1{
 
 @keyframes name-animation {
     0% { color: #3D2B3D; }
-    50% { color: #CBEFB6; }
+    50% { color: #D81E5B; }
     100% { color: #3D2B3D; }
     
 }
@@ -152,7 +153,8 @@ ul, ol{
 }
 
 footer p{
-    background-color:#F8C7CC;
+    background-color: #CBEFB6;
+    /* background-color:#F8C7CC; */
     text-align: center;
     font-size: 20px;
     text-decoration: none;

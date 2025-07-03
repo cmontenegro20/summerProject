@@ -25,6 +25,10 @@ nav{
     padding: 1%;
 }
 
+nav a{
+    color: #D81E5B;
+}
+
 h1{
     margin-top: 1.7%;
     text-align: center;
@@ -45,8 +49,6 @@ section{
 section a{
     text-decoration: none;
     color: #D81E5B;
-    
-    
 }
 
 
@@ -114,11 +116,6 @@ p{
     margin-right: 45%;
 }
 
-footer a{
-    text-align: center;
-    color: #3D2B3D;
-    font-size: 20px;
-}
 
 h3{
     text-align: center;
@@ -135,3 +132,16 @@ ul, ol{
     margin-right: auto;
     padding-bottom: 7px;
 }
+
+footer p{
+    background-color:#F8C7CC;
+    color: #D81E5B;
+    text-align: center;
+    font-size: 20px;
+    text-decoration: none;
+}
+/* 
+footer a{
+    text-align: center;
+    font-size: 20px;
+} */

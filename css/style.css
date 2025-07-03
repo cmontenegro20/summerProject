@@ -30,6 +30,10 @@ h1{
     text-align: center;
 }
 
+.img_me{
+    display: flex;
+}
+
 section{
     font-size: 1.5em;
     padding: 1%;
@@ -45,6 +49,8 @@ section{
 
 section a{
     text-decoration: none;
+    color: #D81E5B;
+    
 }
 
 

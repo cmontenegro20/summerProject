@@ -32,13 +32,14 @@ h1{
 
 .img_me{
     display: flex;
+
 }
 
 section{
     font-size: 1.5em;
     padding: 1%;
     margin: 2%;
-    background-color:#BFACB5 ;
+    /* background-color:#BFACB5 ; */
     /* display: flex;
 	flex-direction: column;
 	flex-wrap: nowrap;
@@ -57,4 +58,69 @@ section a{
 h2{
     margin: 2%;
     text-align: center;
+}
+
+.intro-section {
+    display: flex;
+    align-items: flex-start;
+    gap: 20px; 
+    align-items: center;
+}
+
+.intro-pic {
+    max-width: 200px;
+    height: auto;
+    border: 2px solid #3D2B3D;
+    border-radius: 8px;
+}
+
+.intro-text {
+    background-color: #BFACB5;
+    flex: 1;
+    border-radius: 8px;
+}
+
+p{
+    background-color:#BFACB5 ;
+    padding: 1%;
+    border: #3D2B3D 2px dotted;
+    border-radius: 8px;
+    
+}
+
+.papaya-section {
+    display: flex;
+    align-items: flex-start;
+    gap: 20px; 
+    align-items: center;
+}
+.papaya-pic {
+    max-width: 200px;
+    height: auto;
+    border: 2px solid #3D2B3D;
+    border-radius: 8px;
+}
+.papaya-text {
+    background-color: #BFACB5;
+    border-radius: 8px;
+    flex: 1;
+}
+
+.me-gif {
+    text-align: center;
+    
+}
+
+.my-goodbais {
+    display: flex;
+    gap: 20px; 
+    align-items: center;
+    margin-left: 45%;
+    margin-right: 45%;
+}
+
+footer a{
+    text-align: center;
+    color: #3D2B3D;
+    font-size: 20px;
 }
